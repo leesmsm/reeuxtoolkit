@@ -1,0 +1,13 @@
+.textRed {
+  color: red;
+  display: flex;
+  width: 200px;
+}
+
+.textBlue {
+  color: blue;
+}
+
+.hello {
+  color : red
+}
